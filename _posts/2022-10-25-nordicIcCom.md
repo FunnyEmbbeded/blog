@@ -3,10 +3,10 @@ title:  "Nordic IC Comparison"
 excerpt: "-----"
 
 categories:
-  - Blog
+  - nordic 
 tags:
-  - Blog
-last_modified_at: 2022-10-20T08:06:00-05:00
+  - ic comparison
+last_modified_at: 2022-10-25T08:06:00-05:00
 ---
 
 | Features | nRF52803 | nRF52810 | nRF52811 | nRF52820 | nRF52832 | nRF52833 | nRF52840 |
@@ -95,3 +95,5 @@ last_modified_at: 2022-10-20T08:06:00-05:00
 | 1.5×2.5 mm WLCSP w/10 GPIOs | 2.5×2.5 mm WLCSP w/15 GPIOs | 2.5×2.5 mm WLCSP w/15 GPIOs | 2.5×2.5 mm WLCSP w/18 GPIOs and USB | 3.0×3.2 mm WLCSP w/32 GPIOs | 3.2×3.2 mm WLCSP w/42 GPIOs and USB | 3.5×3.6 mm WLCSP w/48 GPIOs and USB |  |
 |  |  |  |  |  |  |  |  |
 | Temperature | -41 to 85°C | -40 to 85°C | -40 to 85°C | -40 to 105°C | -40 to 85°C | -40 to 105°C | -40 to 85°C |
+
+[Link](https://infocenter.nordicsemi.com/index.jsp?topic=%2Fstruct_nrf52%2Fstruct%2Fnrf52.html)
