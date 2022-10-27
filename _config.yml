@@ -20,7 +20,7 @@ title                    : "Funny Embbeded - funnyembbeded.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Genius Chae"
-description              : "공유, 공유, 공유"
+description              : "재밌는 임베디드 개발"
 #url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : "https://funnyembbeded.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
